@@ -1,4 +1,4 @@
-# Write a Python program to convert a list and tuple into arrays.
+# Write a Python program to convert a list and tuple into arrays using Numpy.
 
 Original array:
 [10, 20, 30]
